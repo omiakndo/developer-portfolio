@@ -66,3 +66,101 @@ nav ul {
     font-size: 18px;
     margin-bottom: 30px;
 }
+/* main style */
+main{
+    max-width: 1140;
+   border-radius: 0 auto;
+
+
+}
+.about-section{
+display: flex;
+align-items: center;
+justify-content: center ;
+
+}
+.about{
+   
+    width: 70%;
+    margin-top: 130px;
+    background-color: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+}
+
+
+
+/* style about */
+
+.section-title{
+
+margin-bottom: 30px;
+font-weight: 700px;
+font-size: 50px;
+}
+section-dis{
+    line-height: 5;
+    /* letter-spacing: 50px; */
+    /* line-clamp: 50px; */
+color: #757575;
+font-size: 18;
+margin-bottom: 30px;
+
+}
+/* information */
+.info{
+    /* display: flex; */
+    /* text-align: center; */
+    list-style: none;
+    padding: 10px;
+}
+.about-info{
+    display: flex;
+    gap: 100px;
+
+    margin-top:30px ;
+   align-items: center;
+   justify-content: center;
+}
+.info-title{
+  font-size: 20px;
+  color: #757575;
+}
+.info-dis{
+font-weight: 700;
+font-size: 20px;
+color: #454545;
+    
+}
+
+/* What i do styles*/
+
+section{
+ margin-top: 130px;
+ text-align: center;
+ 
+}
+.skills-container{
+display: flex;
+gap: 24px;
+}
+.what-i-do{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgb(0, 0, 0, 06);
+    border-radius: 50px;
+    padding: 30px;
+    
+    
+}
+.skills-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px
+}
+.skills-dis{
+color: #757575;
+}
+
+/* resume styles */
